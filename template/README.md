@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
+Imports the settings from `src/styles/index.css` and outputs the result to `src/styles/tailwind.css` and then runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
