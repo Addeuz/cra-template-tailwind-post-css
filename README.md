@@ -4,5 +4,5 @@ This is a create-react-app template for creating a react app with tailwind-css a
 ## Usage
 Use it by typing in your console
 ```
-npx create-react-app --template tailwind-post-css
+npx create-react-app app-name --template tailwind-post-css
 ```
