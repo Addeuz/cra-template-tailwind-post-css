@@ -1,0 +1,13 @@
+{
+	"package": {
+		"dependencies": {
+			"autoprefixer": "^9.7.4",
+			"postcss-cli": "^7.1.0",
+			"tailwindcss": "^1.2.0"
+		},
+		"scripts": {
+			"build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css",
+			"start": "npm run build:style && react-scripts start"
+		}
+	}
+}
